@@ -1,4 +1,4 @@
-## Hi there, I am Neha👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hiiii+!!!!+Welcome+to+my+Profile)](https://git.io/typing-svg)
 
 
 
@@ -8,6 +8,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,r"/>
   <img src="https://skillicons.dev/icons?i=html,css,git" />
 </p>
+
 
 <!--
 **NehaAr/NehaAr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
