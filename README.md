@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I am Neha👋
+
+
+
+<br>
+## 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,r"/>
+  <img src="https://skillicons.dev/icons?i=html,css,git" />
+</p>
 
 <!--
 **NehaAr/NehaAr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
