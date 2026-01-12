@@ -9,6 +9,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,git" />
 </p>
 
+- 🔭 I’m currently working on **Graph Optimisation**
+- 🌱 I’m currently learning  **Hardware Acceleration**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤔 I’m looking for help with **Python Projects**
 
 <!--
 **NehaAr/NehaAr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
