@@ -13,7 +13,8 @@
 - 🌱 I’m currently learning  **Hardware Acceleration**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Python Projects**
-
+-💬 Ask me about **Coding**
+- 📫 How to reach me: **aroraneha009@gmail.com**
 <!--
 **NehaAr/NehaAr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
